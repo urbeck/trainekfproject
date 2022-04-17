@@ -1,6 +1,6 @@
 from pygame import*
 
-okno = display.set_mode((500,500))
+okno = display.set_mode((550,550))
 game = True 
 
 class KVADRAT(sprite.Sprite):
